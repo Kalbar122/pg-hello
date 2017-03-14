@@ -20,3 +20,8 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+function personalInfo() {
+	
+	info = 'Czesc jestem Kuba Kalbarczyk';
+	navigator.notification.alert(info);
+}
